@@ -25,7 +25,7 @@ I am a Software Development student and the Founder of **Youth Innovators Hub**.
 
 ---
 
-### Signature Projects
+### Projects
 
 #### Live Stream
 *Real-time communication and broadcasting made simple.*
