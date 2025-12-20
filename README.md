@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | UX/UI Strategist | Tech Innovator
 
-I am a Software Engineering student and the Founder of **Youth Innovators Hub**. I specialize in building high-performance web applications that bridge the gap between complex backend logic and intuitive user experiences.
+I am a Software Engineering student. I specialize in building high-performance web applications that bridge the gap between complex backend logic and intuitive user experiences.
 
 ---
 
