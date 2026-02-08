@@ -46,7 +46,7 @@ I am a Software Engineering student. I specialize in building high-performance w
 
 ### GitHub Intelligence
 
-![Repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/itmuvunyi)
+[![Repos](https://img.shields.io/badge/Repos-View-blue)](https://github.com/itmuvunyi?tab=repositories)
 ![Followers](https://img.shields.io/github/followers/itmuvunyi?style=flat)
 
 ---
