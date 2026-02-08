@@ -46,8 +46,8 @@ I am a Software Engineering student. I specialize in building high-performance w
 
 ### GitHub Intelligence
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itmuvunyi&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itmuvunyi&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/itmuvunyi)
+![Followers](https://img.shields.io/github/followers/itmuvunyi?style=flat)
 
 ---
 
