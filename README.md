@@ -20,7 +20,7 @@ I am a Software Engineering student. I specialize in building high-performance w
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Adobe CC](https://img.shields.io/badge/-Adobe_CC-DA1F26?logo=adobe&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Adobe CC](https://img.shields.io/badge/-Adobe_CC-DA1F26?logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
 | **Tools & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 
 ---
@@ -47,8 +47,8 @@ I am a Software Engineering student. I specialize in building high-performance w
 ### GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itmuvunyi&show_icons=true&theme=tokyonight" alt="Innocent's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itmuvunyi&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=itmuvunyi&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itmuvunyi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
